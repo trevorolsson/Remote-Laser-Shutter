@@ -18,8 +18,8 @@
   <p>The only essential parts for this shutter are the servo motor, Arduino board, detector and code, but if you wanted to construct the housing for these components, I have included these in the relevent files.</p>
   <ul>
   <li>The housing for the shutter was made in Solidworks and was intended to be 3D printed, but it can also be machined out of aluminum if you have that capability. The idea was to make it cheap, and east to put together.</li>
-  <li>The flag and face plate was intended to be machined out of aluminum, as a laser with sufficient intensity could melt plastic.</li>
-  <li>The screws used are indicated in the Solidworks schematics.</li>
+  <li>The flag and face plate were intended to be machined out of aluminum, as a laser with sufficient intensity could melt plastic.</li>
+  <li>The screws/threading used are indicated in the Solidworks schematics.</li>
   </ul>
   <hr></hr>
   <b>Known Issues</b>
