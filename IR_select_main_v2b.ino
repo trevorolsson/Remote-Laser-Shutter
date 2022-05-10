@@ -1,7 +1,7 @@
 #include <IRremote.h> // Package for IR remote detection
 #include <Servo.h> // Servo package
 
-#define on 0xE318261B
+#define on 0xE318261B // Put the signals for on and off here
 #define off 0x52A3D41F
 
 Servo servo;         // Making my servo an object
