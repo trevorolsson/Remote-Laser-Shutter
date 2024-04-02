@@ -26,6 +26,6 @@
   <ul>
   <li>It may just be for the remote I'm using, but if the shutter isn't used for a long time, when it is powered on and made to read the remote signal, the hex code will be different even if the same buttons are being used. </li>
   <li>If there is a lot of background signal (bright lights or large diffuse scattering from laser etc), the receiver will not see the remote.</li>
-  <li>This read-me was hastily thrown together. I will fix this later :)</li>
+  <li>This read-me was hastily thrown together.</li>
 </ul>
 </html>
