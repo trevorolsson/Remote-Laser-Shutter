@@ -1,7 +1,7 @@
 # Basic Remote Laser Shutter
 <html>
 <p>
-  This is a very basic proof-of-concept for a remote-controlled shutter. This small project was born out of curiousity for why similar, professionally made products sold by Newport or Thorlabs were so expensive. While the functionality of this code is limited to a infrared-signal remote, my hope is that some undergraduate or graduate student can take what I have developed and make it better for their own use.
+  This is a very basic proof-of-concept for a remote-controlled shutter. This small project was born out of curiousity for why similar, professionally made products sold by Newport or Thorlabs were so expensive. I couldn't work on this for long before putting it down for more pertinent work for my PhD, and while the functionality of this code is limited to a infrared-signal remote, my hope is that some undergraduate or graduate student can take what I have developed and make it better for their own use.
   </p>
   <hr></hr>
   <b>To use the code</b>
